@@ -1,0 +1,168 @@
+    {'Cannabis'                     }
+    {'Salvia divinorum'             }
+    {'MDMA'                         }
+    {'LSD'                          }
+    {'DXM'                          }
+    {'Alcohol'                      }
+    {'Cocaine'                      }
+    {'2C-I'                         }
+    {'Morning glory'                }
+    {'Amphetamine'                  }
+    {'DMT'                          }
+    {'Ketamine'                     }
+    {'Metamphetamine'               }
+    {'5-MeO-DMT'                    }
+    {'25I-NBOMe'                    }
+    {'Argyreia nervosa '            }
+    {'2C-E'                         }
+    {'5-MeO-DiPT'                   }
+    {'Echinopsis pachanoi '         }
+    {'Nutmeg'                       }
+    {'Mitragyna speciosa '          }
+    {'Datura'                       }
+    {'Nitrous oxide'                }
+    {'AMT'                          }
+    {'2C-B'                         }
+    {'Diphenhydramine'              }
+    {'Tramadol'                     }
+    {'Oxycodone'                    }
+    {'2C-T-7'                       }
+    {'Caffeine'                     }
+    {'Heroine'                      }
+    {'Ayahuasca'                    }
+    {'Hydrocodone'                  }
+    {'DPT'                          }
+    {'Amanita muscaria'             }
+    {'Dimenhydrinate'               }
+    {'Zolpidem_ambien'              }
+    {'Kava'                         }
+    {'GHB'                          }
+    {'Methoxetamine'                }
+    {'Codeine'                      }
+    {'Cannabinoid receptor agonists'}
+    {'2C-T-2'                       }
+    {'Alprazolam'                   }
+    {'Alcohol (hard)'               }
+    {'Tobacco'                      }
+    {'Mimosahuasca'                 }
+    {'Methylphenidate'              }
+    {'Synthetic cannabis'           }
+    {'Alcohol (beer)'               }
+    {'Methylone'                    }
+    {'Bupropion'                    }
+    {'Buprenorphine'                }
+    {'4-AcO-DMT'                    }
+    {'Venlafaxine'                  }
+    {'Modafinil'                    }
+    {'5-MeO-AMT'                    }
+    {'Paroxetine'                   }
+    {'MDA'                          }
+    {'MDPV'                         }
+    {'Mephedrone'                   }
+    {'Melatonin'                    }
+    {'Gabapentin'                   }
+    {'Substituted piperazines'      }
+    {'Calea zacatechichi'           }
+    {'Clonazepam'                   }
+    {'2C-C'                         }
+    {'Methadon'                     }
+    {'Hash'                         }
+    {'Opium (poppies)'              }
+    {'Valerian'                     }
+    {'Blue Lotus'                   }
+    {'JWH-018'                      }
+    {'Quetiapine'                   }
+    {'Diazepam'                     }
+    {'Morphine'                     }
+    {'Damiana'                      }
+    {'Catnip'                       }
+    {'Echinopsis peruviana'         }
+    {'Brugmansia'                   }
+    {'PCP'                          }
+    {'Piracetam'                    }
+    {'Fentanyl'                     }
+    {'Banisteriopsis caapi'         }
+    {'Sertraline'                   }
+    {'GBL'                          }
+    {'5-HTP'                        }
+    {'Yohimbe'                      }
+    {'Leonotis leonurus'            }
+    {'Anadenanthera colubrina'      }
+    {'DOC'                          }
+    {'Ephedrine'                    }
+    {'Crack'                        }
+    {'Dipt'                         }
+    {'2C-P'                         }
+    {'5-MeO-DALT'                   }
+    {'5-MeO-MIPT'                   }
+    {'4-HO-MiPT'                    }
+    {'Sceletium tortuosum'          }
+    {'Benzylpiperazine'             }
+    {'Opium'                        }
+    {'2C-D'                         }
+    {'6-APB'                        }
+    {'1,4-Butanediol'               }
+    {'Passion flower'               }
+    {'Carisoprodol'                 }
+    {'4-Fluoroamphetamine'          }
+    {'4-Ho-DiPT'                    }
+    {'1P-LSD'                       }
+    {'Cyclobenzaprine'              }
+    {'Lorazepam'                    }
+    {'DOB'                          }
+    {'4-Acetoxy-DiPT'               }
+    {'Ether'                        }
+    {'Lactuca virosa'               }
+    {'Mescaline'                    }
+    {'Hydromorphone'                }
+    {'4-AcO-DET'                    }
+    {'AL-LAD'                       }
+    {'Heimia salicifolia'           }
+    {'DOB-DragonFLY '               }
+    {'Mirtazapine'                  }
+    {'Yerba mate'                   }
+    {'MDAI'                         }
+    {'Acorus calamus '              }
+    {'Psychotria viridis'           }
+    {'DOI'                          }
+    {'Anadenanthera peregrina'      }
+    {'Iboga'                        }
+    {'Ethylphenidate'               }
+    {'Atropa belladonna'            }
+    {'Ibogaine'                     }
+    {'Zopiclone'                    }
+    {'Lophophora williamsii'        }
+    {'Hypericum perforatum'         }
+    {'Amitriptyline'                }
+    {'Trazadone'                    }
+    {'Oxymorphone'                  }
+    {'DMAE'                         }
+    {'Etizolam'                     }
+    {'DOM'                          }
+    {'4-Acetoxy-MiPT'               }
+    {'3-MeO-PCP'                    }
+    {'TFMPP'                        }
+    {'Adrafinil'                    }
+    {'Olanzapine'                   }
+    {'Phenibut'                     }
+    {'Coffee'                       }
+    {'Butylone'                     }
+    {'Betel_Nut'                    }
+    {'TMA-2'                        }
+    {'Atomoxetine'                  }
+    {'Barbiturates'                 }
+    {'2C-T-4'                       }
+    {'2C-T-21'                      }
+    {'Propylhexedrine'              }
+    {'Triazolam'                    }
+    {'Scopolamine'                  }
+    {'Meperidine'                   }
+    {'MBDB'                         }
+    {'Ethylone'                     }
+    {'IAP'                          }
+    {'2-Aminoindan'                 }
+    {'Silene undulata'              }
+    {'Psilocybin mushroom'          }
+    {'Dreams'                       }
+    {'Dreams LL'                    }
+    {'Dreams HL'                    }
